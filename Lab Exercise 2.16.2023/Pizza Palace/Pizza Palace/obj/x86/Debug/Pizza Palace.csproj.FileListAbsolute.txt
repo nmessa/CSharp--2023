@@ -1,0 +1,8 @@
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Pizza Palace\Pizza Palace\bin\Debug\Pizza Palace.exe
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Pizza Palace\Pizza Palace\bin\Debug\Pizza Palace.pdb
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Pizza Palace\Pizza Palace\obj\x86\Debug\Pizza Palace.csprojResolveAssemblyReference.cache
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Pizza Palace\Pizza Palace\obj\x86\Debug\Pizza_Palace.Form1.resources
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Pizza Palace\Pizza Palace\obj\x86\Debug\Pizza_Palace.Properties.Resources.resources
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Pizza Palace\Pizza Palace\obj\x86\Debug\Pizza Palace.csproj.GenerateResource.Cache
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Pizza Palace\Pizza Palace\obj\x86\Debug\Pizza Palace.exe
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Pizza Palace\Pizza Palace\obj\x86\Debug\Pizza Palace.pdb

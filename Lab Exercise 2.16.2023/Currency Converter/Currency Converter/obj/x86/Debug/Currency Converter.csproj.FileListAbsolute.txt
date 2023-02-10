@@ -1,0 +1,8 @@
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csprojResolveAssemblyReference.cache
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Form1.resources
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Properties.Resources.resources
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csproj.GenerateResource.Cache
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 2.16.2023\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
