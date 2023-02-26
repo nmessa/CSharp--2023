@@ -1,0 +1,7 @@
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 3.9.2023\Payroll Data\Payroll Data\bin\Debug\Payroll Data.exe
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 3.9.2023\Payroll Data\Payroll Data\bin\Debug\Payroll Data.pdb
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 3.9.2023\Payroll Data\Payroll Data\obj\x86\Debug\Payroll_Data.Form1.resources
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 3.9.2023\Payroll Data\Payroll Data\obj\x86\Debug\Payroll_Data.Properties.Resources.resources
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 3.9.2023\Payroll Data\Payroll Data\obj\x86\Debug\Payroll Data.csproj.GenerateResource.Cache
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 3.9.2023\Payroll Data\Payroll Data\obj\x86\Debug\Payroll Data.exe
+F:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 3.9.2023\Payroll Data\Payroll Data\obj\x86\Debug\Payroll Data.pdb
