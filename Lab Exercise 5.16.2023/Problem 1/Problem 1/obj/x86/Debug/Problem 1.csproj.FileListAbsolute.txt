@@ -1,0 +1,4 @@
+H:\SST\2022 - 2023 Courses\C#\New Labs\Lab #2\Problem 1\Problem 1\bin\Debug\Problem 1.exe
+H:\SST\2022 - 2023 Courses\C#\New Labs\Lab #2\Problem 1\Problem 1\bin\Debug\Problem 1.pdb
+H:\SST\2022 - 2023 Courses\C#\New Labs\Lab #2\Problem 1\Problem 1\obj\x86\Debug\Problem 1.exe
+H:\SST\2022 - 2023 Courses\C#\New Labs\Lab #2\Problem 1\Problem 1\obj\x86\Debug\Problem 1.pdb
